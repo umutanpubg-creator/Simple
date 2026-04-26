@@ -14,7 +14,7 @@ if not os.path.exists("vpn_files"):
     os.makedirs("vpn_files")
 
 TOKEN = "8563921650:AAEeLTdI0flxK9rZy9JH9y4hsLgh7V3v0iw"
-adminler = {7279061074}
+adminler = {7279061074 ,7283872234 ,6510945724 ,7115611768}
 
 kanallar = []         # Adaty agza bolmaly kanallar
 optional_kanallar = []  # goşulmasa-da bolar kanallar
